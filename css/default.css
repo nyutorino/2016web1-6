@@ -49,3 +49,10 @@ dt{
   background-color: lightcoral;
 }
 
+#ingredient{
+  border: 2px solid lightcoral;
+  }
+  
+  th,td{
+    border: 2px solid lightcoral;
+  }
