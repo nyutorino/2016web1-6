@@ -6,7 +6,6 @@
 }
 
 
-
 .curry_picture:after{
   content: "";
   clear: both;
@@ -21,4 +20,9 @@ dt{
   clear: left;
   float: left;
   font-weight: bold;
+}
+
+.btn{
+  -webkit-appearance: none;
+  margin: 5px;
 }
